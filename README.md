@@ -2,6 +2,8 @@
  
 A console script to cheat in https://texnique.xyz
 
+![high score](high_score.png)
+
 The repo for the original game can be found at https://github.com/akshayravikumar/TeXnique
 
 ## Usage
